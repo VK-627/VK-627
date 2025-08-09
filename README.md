@@ -42,7 +42,7 @@ I'm a final-year B.Tech Computer Science student with a specialization in Data S
 
 - ✉️ Email: vishwas.kaushik22@st.niituniversity.in
 - 💼 LinkedIn: [linkedin.com/in/vishwas-kaushik](https://linkedin.com/in/vishwaskaushik)
-- 🌐 Portfolio Website: [vishwaskaushik.dev](https://digital-portfolio-vishwas.vercel.app/) 
+- 🌐 Portfolio Website: [Digital-Portfolio-Vishwas](https://digital-portfolio-vishwas.vercel.app/) 
 
 ---
 

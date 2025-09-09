@@ -14,7 +14,7 @@ I'm a final-year B.Tech Computer Science student with a specialization in Data S
 ## Skills & Tools
 
 **Languages:** Python, JavaScript, SQL
-**Libraries & Frameworks:** pandas, scikit-learn, NumPy, Matplotlib, Seaborn, TensorFlow, Keras, OpenCV  
+**Libraries & Frameworks:** pandas, scikit-learn, NumPy, Matplotlib, Seaborn, , Keras,   
 **Tools & Platforms:** Power BI, Google Colab, Git, Excel  
 
 ---
